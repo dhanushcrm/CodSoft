@@ -1,1 +1,1 @@
-# CodSoft
+# DATA SCIENCE Projects
